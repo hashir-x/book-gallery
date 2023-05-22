@@ -1,0 +1,28 @@
+#box {
+    margin-top: 0;
+    height: 80%;
+    width: 80%;
+    background-color: black;
+    
+}
+div {
+    height: 345px;
+    width: 23%;
+    background-color: #ffffff;
+    border: 1px solid #ff0000;
+    float: left;
+    margin: 11px;
+    border-radius: 15px;
+    text-align: center;
+}
+img {
+    padding: 10px;
+    height: 60%;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: white;
+    margin: 0;
+}
